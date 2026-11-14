@@ -1,6 +1,4 @@
-a = 10
-b = 20
+def sum(x,y):
+    print(x+y)
 
-sum = a + b
-
-print("Sum =", sum)
+    sum(4,5)
