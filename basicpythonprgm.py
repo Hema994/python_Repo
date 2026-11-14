@@ -1,4 +1,7 @@
-def sum(x,y):
-    print(x+y)
+a = 10
+b = 20
 
-    sum(4,5)
+if a > b:
+    print("A is largest")
+else:
+    print("B is largest")
